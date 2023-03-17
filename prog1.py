@@ -4,7 +4,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 from matplotlib.ticker import FormatStrFormatter
 from matplotlib.animation import FuncAnimation
-
+#Hello
 def main():
     e = 1.0
     N = 101  #number of grid points for position
